@@ -1,2 +1,3 @@
 # DorGold
-https://mybinder.org/v2/gh/dor34340/DorGold/dor
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dor34340/DorGold/data)
+
