@@ -1,3 +1,4 @@
 # DorGold
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dor34340/DorGold/data)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dor34340/DorGold/main)
+
 
